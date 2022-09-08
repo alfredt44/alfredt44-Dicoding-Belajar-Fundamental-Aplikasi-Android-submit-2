@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BFAA Submission 2</string>
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+    <string name="location">Location: %s </string>
+    <string name="repository">Repository: %s </string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="avatar">Photo</string>
+    <string name="change_language_settings">Change Language</string>
+    <string name="credit">Credit</string>
+    <string name="credit_desc1">Thanks to God for helping me</string>
+    <string name="credit_desc2">Thanks to Dicoding and Bangkit to support us</string>
+    <string name="credit_desc3">Thanks to github to provide the data</string>
+
+</resources>
